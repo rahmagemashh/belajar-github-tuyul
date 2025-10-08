@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(250, 215, 245);
+}
+h1 {
+    background-color: blueviolet;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+p {
+    background-color: rgb(210, 170, 246);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    padding: 100px;
+    text-align: center;
+    margin: 100px;
+    border: 4px dotted blueviolet;
+}
